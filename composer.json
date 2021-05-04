@@ -1,6 +1,8 @@
 {
     "type": "project",
+    "name": "konstantin_popov/symfony",
     "license": "proprietary",
+    "description": "Symfony 5 guide",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
@@ -11,6 +13,7 @@
         "doctrine/doctrine-bundle": "^2.3",
         "doctrine/doctrine-migrations-bundle": "^3.1",
         "doctrine/orm": "^2.8",
+        "easycorp/easyadmin-bundle": "^3",
         "sensio/framework-extra-bundle": "^6.1",
         "symfony/console": "5.2.*",
         "symfony/dotenv": "5.2.*",
