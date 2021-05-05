@@ -240,6 +240,9 @@
             "ref": "fadbfe33303a76e25cb63401050439aa9b1a9c7f"
         }
     },
+    "symfony/mime": {
+        "version": "v5.2.7"
+    },
     "symfony/options-resolver": {
         "version": "v5.2.4"
     },
@@ -250,6 +253,9 @@
         "version": "v1.22.1"
     },
     "symfony/polyfill-intl-icu": {
+        "version": "v1.22.1"
+    },
+    "symfony/polyfill-intl-idn": {
         "version": "v1.22.1"
     },
     "symfony/polyfill-intl-normalizer": {
@@ -356,6 +362,9 @@
             "templates/base.html.twig"
         ]
     },
+    "symfony/twig-pack": {
+        "version": "v1.0.1"
+    },
     "symfony/uid": {
         "version": "v5.2.6"
     },
@@ -367,6 +376,12 @@
     },
     "symfony/yaml": {
         "version": "v5.2.7"
+    },
+    "twig/extra-bundle": {
+        "version": "v3.3.0"
+    },
+    "twig/intl-extra": {
+        "version": "v3.3.0"
     },
     "twig/twig": {
         "version": "v3.3.0"
